@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Container(
-              color: Colors.yellowAccent,
+              color: Colors.blueAccent,
               child: Image.asset("assets/images/elefent.png",
                   height: 300, width: 300, fit: BoxFit.contain),
             ),
